@@ -101,6 +101,11 @@ The **Field** is made of *spaces* that the player needs to send the courier and 
   * good - food
   * bad - no shelter
 
+The Field tiles can also attack the player:
+* Raids - Human will attempt to take the courier's money, resources, or mission. Players can either fight (using Cunning) or cause them to back off (using Negotiate). Raider will indicate their target at the start
+* Animal Attacks - Creatures like hobbears may attack the player. Players can either fight (using Forage) or cause them to back down (using Impress). Animals will indicate that they're hungry or simply want the player to back off.
+* Poison - certain plants and animals when encountered will poison the courier or the dragon.
+
 The **environmental conditions** will increase/decrease the shelter points required and modify the chances to find food.
 These follow for temperate climates.
 * Spring - no rainstorm
